@@ -2,7 +2,7 @@
 This document covers policies that defines Insentra's usage of code repositories stored on GitHub. This is currently a work in progress, so is subject to change.
 
 ## Policies
-Policies include:
+Policies are subject to change and are currently:
 * No customer sensitive information shall be stored in a repository. This includes IP addresses, account names and passwords.
 * All customer facing code must be stored in private repositories.
 * Users with access to private code repositories must be Insentra employees or approved partners.
