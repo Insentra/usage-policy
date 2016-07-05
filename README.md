@@ -3,7 +3,7 @@ This document covers policies that defines Insentra's usage of code repositories
 
 ## Policies
 Policies include:
-* No customer sensitive information shall be stored in a repository.
+* No customer sensitive information shall be stored in a repository. This includes IP addresses, account names and passwords.
 * All customer facing code must be stored in private repositories.
 * Users with access to private code repositories must be Insentra employees or approved partners.
 * Code stored in public repositories must first be approved by the respective practice manager.
