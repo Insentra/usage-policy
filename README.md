@@ -1,4 +1,4 @@
-# Insentra Code Repository Policy
+# Insentra Code Repository Governance Policy
 This document covers policies that defines Insentra's usage of code repositories stored on GitHub.
 
 ## Policies
