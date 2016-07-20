@@ -1,5 +1,5 @@
 # Insentra Code Repository Policy
-This document covers policies that defines Insentra's usage of code repositories stored on GitHub. This document is subject to change.
+This document covers policies that defines Insentra's usage of code repositories stored on GitHub.
 
 ## Policies
 Policies are subject to change and are currently:
